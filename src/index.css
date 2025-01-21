@@ -1,0 +1,76 @@
+.nav1 {
+   background-color: rgb(138, 64, 109);
+   border-bottom-right-radius:80px;
+   border-bottom-left-radius:80px;
+}
+.LOGO{
+  font-weight: 1000;
+  font-size: 25px ;
+  color: white;
+ 
+}
+.card1{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-top: 30px;
+
+}
+.card2{
+  width: 700px;
+}
+.btncard
+{
+  width: 100px;
+  background-color: rgb(138, 64, 109);
+  border-radius:20px;
+  padding:10px;
+  margin-left: 5px;
+  color:white;
+    text-decoration: none;
+    color: white;
+    &:hover {
+      color: black;
+    }
+
+}  
+.form1{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.btn3{
+  width:100%;
+  margin-top: 40px;
+  padding : 10px; 
+  background-color: rgb(138, 64, 109);
+  color: white;
+  border-radius: 30px;
+  }
+  .link1
+{
+  width:100%;
+  background-color: rgb(138, 64, 109);
+  margin-top:30px;
+  margin-bottom: 300px;
+  padding: 10px;
+  border-radius: 30px;
+  color: white;
+  text-decoration: none;
+
+  &:hover {
+    color: black;
+
+  }
+  text-align: center;
+}
+.foot{
+  background-color: rgb(138, 64, 109);
+  width: 100%;
+  position:fixed;
+  bottom: 0;
+  height: 50px;
+  margin-top: 120px;
+  border-top-right-radius:40px;
+  border-top-left-radius:40px;
+}
